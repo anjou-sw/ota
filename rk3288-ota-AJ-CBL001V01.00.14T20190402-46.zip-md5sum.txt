@@ -1,0 +1,2 @@
+[37;42m < md5sum /home/sw/Jenkins/jenkins_home/workspace/C2_CBL001_Framework2_DEV_Debug/IMG/AJ-CBL001V01.00.14T20190402-46/rk3288-ota-AJ-CBL001V01.00.14T20190402-46.zip > [0m
+e2d06b3ba10fa1959cd38339350bde13  /home/sw/Jenkins/jenkins_home/workspace/C2_CBL001_Framework2_DEV_Debug/IMG/AJ-CBL001V01.00.14T20190402-46/rk3288-ota-AJ-CBL001V01.00.14T20190402-46.zip
